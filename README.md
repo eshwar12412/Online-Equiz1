@@ -1,1 +1,1 @@
-# Online-Equiz1
+# Tech_Quiz
